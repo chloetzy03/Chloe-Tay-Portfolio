@@ -13,7 +13,7 @@ This portfolio includes selected projects and coursework covering:
 Each project folder contains a README providing context, technical focus, and key skills demonstrated.
 
 ## Tech Stack
-Python, TensorFlow, NumPy, Pandas, SQL, HTML, CSS, JavaScript, Unity, Git
+Python, TensorFlow, NumPy, Pandas, SQL, HTML, CSS, JavaScript, Unity, Git, Scikit-learn
 
 ### Notes
 This repository is intended as a portfolio overview. Individual projects are self-contained and documented within their respective folders.
